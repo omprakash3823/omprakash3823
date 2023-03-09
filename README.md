@@ -48,23 +48,17 @@
 
 - 📫 How to reach me:
 <a href="https://www.linkedin.com/in/stymrj/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:sstymrj@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="mailto:omjio3823@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://instagram.com/stymg__"><img src="https://img.shields.io/badge/-@stymg__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 
 ## Operating System & Tools
 
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]
-[ ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)]
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)]
-[![ios](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)]
-[![ios](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]
-[![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)]
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)]
 [![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-black?style=flat-square&logo=JetBrains)]
-[![Android Studio](https://img.shields.io/badge/IDE-Android%20Studio-3DDC84.svg?style=flat-square&logo=android-studio)]
 [![VMWare](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)]
-[![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)]
 
 ## Languages And Tools
 
