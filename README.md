@@ -78,11 +78,3 @@
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)]
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)]
 [![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)]
-
- ## 📈 Stats
- 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=omprakash3823&show_icons=true&hide_border=truel&count_private=true&show_icons=true&hide=,contribs&include_all_commits" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=omprakash3823&hide_border=true" />
-</p>
-
