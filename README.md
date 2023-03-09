@@ -19,7 +19,7 @@
 - 🔭 I’m currently working on improving my development skills
 - 👯 I’m looking to make more friends.
 - ⚡ I’m looking for help with contributing to open source projects
-- 💬 Ask me about tech related stuffs at <a href="mailto:omjio3823@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+- 💬 Ask me about tech related stuffs at <a href="https://mail.google.com/mail/u/0/#inbox"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 
 ## Connect With Me 
 ###  I'm a programmer and an insightful learner who is passionate about growing in teams with dreams.
