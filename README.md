@@ -1,6 +1,23 @@
 <h1 align="center">Hi 👋, I'm Om Prakash Kumar</h1>
+
 <h3 align="center">A passionate developer</h3>
 
+<p align="center">
+  <a href="https://github.com/stymrj/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hey!!!;I%20am%20%20Learning%20Cloud%20Computing%20And%20Blockchain;An%20Android%20App%20Developer;Self-taught;1.5%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
+
+<img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"/>
+
+
+- 🌱 Learning Something New Everyday...
+- 🔭 Highly interested in Cloud Computing and Programming.. 
+- 🌱 Currently learning more about Blockchain.
+- 🔭 I’m currently working on improving my development skills
+- 👯 I’m looking to make more friends.
+- ⚡ I’m looking for help with contributing to open source projects
+- 💬 Ask me about tech related stuffs at <a href="mailto:omjio3823@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+
+  </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omprakash3823&label=Profile%20views&color=0e75b6&style=flat" alt="omprakash3823" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omprakash3823" alt="omprakash3823" /></a> </p>
@@ -9,7 +26,7 @@
 
 - 🌱 I’m currently learning **Cloud Computing and BlockChain**
 
-- 👨‍💻 All of my projects are available at [https://omprakash3823.github.io/level1-task2/](https://omprakash3823.github.io/level1-task2/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://omprakash3823.github.io/level1-task2/)
 
 - 📫 How to reach me **omjio3823@gmail.com**
 
