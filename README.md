@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer</h3>
 
 <p align="center">
-  <a href="https://github.com/stymrj/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hey!!!;I%20am%20%20Learning%20Cloud%20Computing%20And%20Blockchain;An%20Android%20App%20Developer;Self-taught;1.5%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/stymrj/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hey!!!;I%20am%20%20Learning%20Cloud%20Computing%20And%20Blockchain;Self-taught;1%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 <img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"/>
